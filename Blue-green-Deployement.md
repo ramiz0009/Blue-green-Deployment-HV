@@ -1,30 +1,4 @@
 # Blue-Green Deployment Project
-
-**DevOps Skill Test Assignment**  
-**Duration:** 1 hour | **Total Marks:** 50
-
----
-
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-  - [Part 1: Local Deployment](#part-1-local-deployment)
-  - [Part 2: Docker Containerization](#part-2-docker-containerization)
-  - [Part 3: Kubernetes Deployment](#part-3-kubernetes-deployment)
-  - [Part 4: Blue-Green Deployment](#part-4-blue-green-deployment)
-- [Blue-Green Deployment Strategy](#blue-green-deployment-strategy)
-- [API Documentation](#api-documentation)
-- [Troubleshooting](#troubleshooting)
-- [Challenges and Solutions](#challenges-and-solutions)
-- [Screenshots](#screenshots)
-- [Cleanup](#cleanup)
-- [License](#license)
-
 ---
 
 ## 🎯 Project Overview
